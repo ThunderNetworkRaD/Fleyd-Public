@@ -1,0 +1,24 @@
+{
+  "name": "fleyd-dev",
+  "version": "developer",
+  "description": "Version Public of Fleyd-BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fleyd-Progect/Fleyd-Public.git"
+  },
+  "author": "Fleyd-Progect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fleyd-Progect/Fleyd-Public/issues"
+  },
+  "homepage": "https://github.com/Fleyd-Progect/Fleyd-Public#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
