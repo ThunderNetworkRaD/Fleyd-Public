@@ -1,4 +1,4 @@
-#Fleyd BOT
+# Fleyd BOT
 
 **Join our Discord server to receive updates and announcements about the bot FREE**
 
